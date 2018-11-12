@@ -1,0 +1,1 @@
+D:\LabCode\bleApp\bleApp\bleApp.csproj;x64
